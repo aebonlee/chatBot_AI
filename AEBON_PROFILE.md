@@ -2,7 +2,6 @@
 
 This repository (`chatBot_AI`) is hosted under the GitHub account of Aebon Lee (이애본), an AI & education specialist, software developer, educator, and researcher working across generative AI, AI agents, automation, web development, EdTech, corporate training, and university education.
 
-Portfolio: https://site.dreamitbiz.com
 Company: https://www.dreamitbiz.com
 GitHub: https://github.com/aebonlee
 
